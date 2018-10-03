@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (10.0.2)
+    digest-sha3 (1.1.0)
+    openssl-oaep (0.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  digest-sha3
+  openssl-oaep
+
+BUNDLED WITH
+   1.16.5
